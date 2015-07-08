@@ -54,3 +54,7 @@ Load the page and open the console on the developers tools, you will see somethi
 | `ng-pref-enable`     | boolean | Enable/Disable, default true |
 | `ng-pref-threshold`     | number (in ms)      | Determines the color of the log, default 200 |
 | `ng-pref-name`| string | The name of the component on the log |
+
+### Βrowser support table
+
+[![Resulte](http://oi61.tinypic.com/1zdmccm.jpg)](http://oi61.tinypic.com/1zdmccm.jpg)
