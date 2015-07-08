@@ -51,9 +51,9 @@ Load the page and open the console on the developers tools, you will see somethi
 
 | Options       | Type          | Explanation  |
 | ------------- |:-------------:| -----:|
-| `ng-pref-enable`     | boolean | Enable/Disable, default true |
-| `ng-pref-threshold`     | number (in ms)      | Determines the color of the log, default 200 |
-| `ng-pref-name`| string | The name of the component on the log |
+| `ng-perf-enable`     | boolean | Enable/Disable, default true |
+| `ng-perf-threshold`     | number (in ms)      | Determines the color of the log, default 200 |
+| `ng-perf-name`| string | The name of the component on the log |
 
 ### Βrowser support table
 
