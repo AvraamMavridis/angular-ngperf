@@ -8,7 +8,7 @@ ngPerf is a tiny module (485 bytes minified) to help you measure the loading tim
 Download and place the script before your angular application script and after the core angular module.
 ```html
     <script src="angular.min.js"></script>
-    <script src="angular-jsperf.min.js"></script>
+    <script src="angular-ngperf.min.js"></script>
     <script src="yourApp.js"></script>
 ```
 Then inject the module into your application:
