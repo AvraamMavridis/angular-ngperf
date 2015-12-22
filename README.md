@@ -52,7 +52,7 @@ Load the page and open the console on the developers tools, you will see somethi
 | Options       | Type          | Explanation  |
 | ------------- |:-------------:| -----:|
 | `ng-perf-enable`     | boolean | Enable/Disable, default true |
-| `ng-perf-threshold`     | number (in ms)      | Determines the color of the log, default 200 |
+| `ng-perf-threshold`     | number (in ms)      | Determines the performance budget threshold, default 200 |
 | `ng-perf-name`| string | The name of the component on the log |
 
 ### Βrowser support table
